@@ -1,0 +1,10 @@
+graduation\cjson.o: cJSON.c
+graduation\cjson.o: C:\Keil5\ARM\ARMCC\Bin\..\include\string.h
+graduation\cjson.o: C:\Keil5\ARM\ARMCC\Bin\..\include\stdio.h
+graduation\cjson.o: C:\Keil5\ARM\ARMCC\Bin\..\include\math.h
+graduation\cjson.o: C:\Keil5\ARM\ARMCC\Bin\..\include\stdlib.h
+graduation\cjson.o: C:\Keil5\ARM\ARMCC\Bin\..\include\limits.h
+graduation\cjson.o: C:\Keil5\ARM\ARMCC\Bin\..\include\ctype.h
+graduation\cjson.o: C:\Keil5\ARM\ARMCC\Bin\..\include\float.h
+graduation\cjson.o: cJSON.h
+graduation\cjson.o: C:\Keil5\ARM\ARMCC\Bin\..\include\stddef.h
